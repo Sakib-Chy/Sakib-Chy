@@ -1,33 +1,169 @@
-<h1 align="center">Hi 👋, I'm Md. Sakibul Islam Chy</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<!--
+  Profile README for github.com/Sakib-Chy
+  Stats and activity images are served by external services and may occasionally be unavailable.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-chy&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-chy" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-chy" alt="sakib-chy" /></a> </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Md.%20Sakibul%20Islam%20Chy&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20CSE%20Student%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=16" alt="Md. Sakibul Islam Chy profile banner" />
 
-- 🔭 I’m currently working on Perfume Zone CTG website [Perfume Zone Chittagong](https://perfumezonectg.com)
+  <p>
+    <a href="https://github.com/Sakib-Chy"><img src="https://komarev.com/ghpvc/?username=Sakib-Chy&label=PROFILE%20VIEWS&color=2C5364&style=for-the-badge" alt="Profile views" /></a>
+    <a href="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSakib-Chy&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=203A43&style=for-the-badge&logo=github"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSakib-Chy&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=203A43&style=for-the-badge&logo=github" alt="Public repository count" /></a>
+    <a href="https://github.com/Sakib-Chy?tab=followers"><img src="https://img.shields.io/github/followers/Sakib-Chy?label=FOLLOWERS&style=for-the-badge&color=2C5364" alt="GitHub followers" /></a>
+  </p>
 
-- 🌱 I’m currently learning Data structure **Data Structure (Chittagong Independent University)**
+  <h3>Building things, solving problems, and learning every day. 🇧🇩</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sakib-Chy](https://github.com/Sakib-Chy)
+  <p>
+    <a href="https://perfumezonectg.com">Perfume Zone CTG</a> ·
+    <a href="https://github.com/Sakib-Chy?tab=repositories">Repositories</a> ·
+    <a href="mailto:jacksparrow6251413@gmail.com">Email</a> ·
+    <a href="https://linkedin.com/in/sakib-chy-151a60411">LinkedIn</a>
+  </p>
 
-- 📫 How to reach me **jacksparrow6251413@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sakib-chy-151a60411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakib-chy-151a60411" height="30" width="40" /></a>
-<a href="https://fb.com/sakibchy120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibchy120" height="30" width="40" /></a>
-<a href="https://instagram.com/sho_jack_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sho_jack_" height="30" width="40" /></a>
-<a href="https://www.behance.net/shojack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shojack" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pixelpulsesho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pixelpulsesho" height="30" width="40" /></a>
-<a href="https://discord.gg/sho_jack4201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sho_jack4201" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-chy&show_icons=true&locale=en&layout=compact" alt="sakib-chy" /></p>
+- 👋 Hi, I'm **Md. Sakibul Islam Chy**, a developer from **Bangladesh**.
+- 🎓 Studying **Computer Science & Engineering** at **Chittagong Independent University**.
+- 🔭 Currently working on **[Perfume Zone CTG](https://perfumezonectg.com)**.
+- 🌱 Learning **Data Structures** and improving my problem-solving skills.
+- 💡 Interested in web development, software, electronics, and robotics.
+- 📫 Reach me at **[jacksparrow6251413@gmail.com](mailto:jacksparrow6251413@gmail.com)**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakib-chy&show_icons=true&locale=en" alt="sakib-chy" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-chy&" alt="sakib-chy" /></p>
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+
+  <p><strong>Programming</strong></p>
+  <img src="https://skillicons.dev/icons?i=c,python,php,js" alt="C, Python, PHP and JavaScript" />
+
+  <p><strong>Web Development</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,laravel,mysql" alt="HTML, CSS, Tailwind CSS, React, Node.js, Laravel and MySQL" />
+
+  <p><strong>Tools & Platforms</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,framer,photoshop,unity,androidstudio,arduino" alt="Git, GitHub, Linux, Figma, Framer, Photoshop, Unity, Android Studio and Arduino" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sakib-Chy&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats: contributions, commits and stars" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib-Chy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
+
+  <br />
+
+  <img width="65%" src="https://streak-stats.demolab.com?user=Sakib-Chy&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📈 Contribution & Commit Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib-Chy&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F78166&area=true&hide_border=true" alt="GitHub contribution and commit activity graph" />
+
+  <br />
+
+  <img src="https://ghchart.rshah.org/58A6FF/Sakib-Chy" alt="GitHub contribution calendar heatmap" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakib-Chy&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/Sakib-Chy/Perfume-zone-ctg">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib-Chy&repo=Perfume-zone-ctg&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Perfume Zone CTG repository" />
+  </a>
+  <a href="https://github.com/Sakib-Chy/ShoTube">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib-Chy&repo=ShoTube&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="ShoTube repository" />
+  </a>
+  <a href="https://github.com/Sakib-Chy/ShoChat">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib-Chy&repo=ShoChat&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="ShoChat repository" />
+  </a>
+  <a href="https://github.com/Sakib-Chy/Questify">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib-Chy&repo=Questify&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Questify repository" />
+  </a>
+  <a href="https://github.com/Sakib-Chy/DigitalClockUsingC">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib-Chy&repo=DigitalClockUsingC&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Digital Clock using C repository" />
+  </a>
+  <a href="https://github.com/Sakib-Chy/LibraryManagementSystem">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakib-Chy&repo=LibraryManagementSystem&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Library Management System repository" />
+  </a>
+
+  <br />
+
+  <a href="https://github.com/Sakib-Chy?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-203A43?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
+
+</div>
+
+**A few things I'm building:**
+
+| Project | What it is |
+|---|---|
+| [Perfume Zone CTG](https://github.com/Sakib-Chy/Perfume-zone-ctg) | E-commerce project for my perfume store. |
+| [ShoTube](https://github.com/Sakib-Chy/ShoTube) | Video-sharing platform. |
+| [ShoChat](https://github.com/Sakib-Chy/ShoChat) | Chatting website. |
+| [Questify](https://github.com/Sakib-Chy/Questify) | Community platform for questions, knowledge sharing, and discussion. |
+| [DigitalClockUsingC](https://github.com/Sakib-Chy/DigitalClockUsingC) | Digital clock built with C programming. |
+| [LibraryManagementSystem](https://github.com/Sakib-Chy/LibraryManagementSystem) | Library management system built with C. |
+
+---
+
+## 🎯 Goals & Milestones
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/⭐%20Next%20Star%20Goal-25%20Repository%20Stars-F0B429?style=for-the-badge" alt="Goal: 25 repository stars" />
+  <img src="https://img.shields.io/badge/🔥%20Contribution%20Goal-365%20Contributions%20in%20a%20Year-E05D44?style=for-the-badge" alt="Goal: 365 contributions in a year" />
+
+  <p><em>Small, consistent progress adds up. Follow my contribution graph above to see the journey.</em></p>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/sakib-chy-151a60411"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/sakibchy120"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/sho_jack_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.behance.net/shojack"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://www.youtube.com/c/pixelpulsesho"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://discord.gg/sho_jack4201"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:jacksparrow6251413@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+  <h3>Thanks for visiting! 💙</h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="Profile footer" />
+
+</div>
